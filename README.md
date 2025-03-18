@@ -7,5 +7,5 @@ Withgame_1 is the first draft of the gameplay that includes the bopit like timed
 
 Withgame_2 the bug has been fixed. 
 
-Withgame_3 the second game (a memory game) is being added. The option between game 1 and game 2 is separate startbutton for each game. The final version may have more than two games, therefore would switch to a mode button to change the game and then one start button. 
+Withgame_3 the second game (a memory game) is being added - NOT DONE YET. The option between game 1 and game 2 is separate startbutton for each game. The final version may have more than two games, therefore would switch to a mode button to change the game and then one start button. 
   
